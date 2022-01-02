@@ -1,0 +1,51 @@
+small {
+    color: rgb(170, 23, 146);
+}
+
+.tour1 {
+    background-color: royalblue;
+}
+
+.tour2 {
+    background-color: rgb(101, 18, 168);
+}
+
+.tour3 {
+    background-color: seagreen;
+}
+
+.name {
+    color: rgb(238, 3, 3);
+}
+
+.blog {
+    border: 5px solid red;
+    border-radius: 25px;
+    margin: 40px 10px 100px 200px;
+
+}
+
+.blog1_title {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 1000;
+}
+
+.blog1 {
+    border: 5px solid red;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    padding: 10px 20px 30px 40px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+}
+
+.blog1 p {
+    color: saddlebrown;
+    text-align: justify;
+}
